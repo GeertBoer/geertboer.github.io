@@ -1,2 +1,0 @@
-# geertboer.github.io
-site
